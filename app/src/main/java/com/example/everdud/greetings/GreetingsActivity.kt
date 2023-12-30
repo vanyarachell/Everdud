@@ -1,4 +1,4 @@
-package com.example.everdud
+package com.example.everdud.greetings
 
 import android.content.res.Configuration
 import android.os.Bundle
@@ -32,6 +32,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.example.everdud.R
 import com.example.everdud.ui.theme.EverdudTheme
 
 class GreetingsActivity: ComponentActivity() {

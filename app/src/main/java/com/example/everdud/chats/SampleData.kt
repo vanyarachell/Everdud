@@ -1,7 +1,7 @@
-import com.example.everdud.Message
+package com.example.everdud.chats
 
 /**
- * SampleData for Jetpack Compose Tutorial 
+ * com.example.everdud.chats.SampleData for Jetpack Compose Tutorial
  */
 object SampleData {
     // Sample conversation data
